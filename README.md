@@ -1,2 +1,2 @@
-# HTML.github.io
+# Ajaiqmar.github.io
 an HTML file
