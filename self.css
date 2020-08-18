@@ -1,0 +1,24 @@
+body{
+	margin:10px;
+	border:2px solid #000000;
+	border-radius:50px;
+}
+#pp{
+	background: url("self.jpeg");
+	background-size:100%;
+	background-color:#b3b3b3;
+	border:2px solid #000000;
+	width:200px;
+	height:200px;
+	border-radius:200px;
+	margin:0 auto;
+}
+#bg{
+	background-color:#e2f0f9;
+	border-radius:50px;
+	height:270px;
+	padding:20px;
+	font-family:"Goudy old style","Lucida bright";
+	text-transform:uppercase;
+	text-align:center;
+}
