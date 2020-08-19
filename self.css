@@ -34,6 +34,7 @@ body{
 main{
 	border:2px solid #000000;
 	padding:20px;
+	overflow:auto;
 	-webkit-border-radius:50px;
 	-moz-border-radius:50px;
 	-o-border-radius:50px;
@@ -47,6 +48,7 @@ main{
 	margin:20px;
 	width:45%;
 	height:400px;
+	overflow:auto;
 	-webkit-border-radius:50px;
 	-moz-border-radius:50px;
 	-o-border-radius:50px;
@@ -58,20 +60,22 @@ main{
 }
 #me p{
 	font-size:20px;
+	text-align:center;
 }
 /* PERSONAL DETAIL'S */
 #table{
 	background-color:#e2f0f9;
 	display:inline-block;
 	padding:20px 0 0 20px;
-	margin:20px;
+	margin:20px 20px 0 50px;
 	width:45%;
-	height:670px;
+	height:700px;
+	overflow:auto;
 	-webkit-border-radius:50px;
 	-moz-border-radius:50px;
 	-o-border-radius:50px;
 	-ms-border-radius:50px;
-	position:absolute;
+	float:right;
 }
 #table table{
 	margin:0 auto;
@@ -94,6 +98,8 @@ main{
 	padding:20px;
 	margin:20px;
 	width:45%;
+	height:225px;
+	overflow:auto;
 	-webkit-border-radius:50px;
 	-moz-border-radius:50px;
 	-o-border-radius:50px;
@@ -111,13 +117,14 @@ main{
 /* EDUCATION */
 #education{
 	background-color:#e2f0f9;
-	margin:40px 10px 10px 10px;
+	margin:50px 10px 10px 10px;
 	height:200px;
 	padding:20px;
 	-webkit-border-radius:50px;
 	-moz-border-radius:50px;
 	-o-border-radius:50px;
 	-ms-border-radius:50px;
+	overflow:auto;
 }
 #education caption{
 	font-variant:small-caps;
