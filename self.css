@@ -66,8 +66,8 @@ main{
 #table{
 	background-color:#e2f0f9;
 	display:inline-block;
-	padding:20px 0 0 20px;
-	margin:20px 20px 0 50px;
+	padding:20px 0 0 10px;
+	margin:20px 20px 0 40px;
 	width:45%;
 	height:700px;
 	overflow:auto;
