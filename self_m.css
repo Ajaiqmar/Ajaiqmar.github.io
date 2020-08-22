@@ -1,0 +1,206 @@
+body{
+	margin:1%;
+	font-family:"Goudy old style","Lucida bright";
+}
+/*HEADER*/
+#header{
+	background-color:#e2f0f9;
+	text-align:center;
+	padding:1% 0 1% 0;
+	text-transform:uppercase;
+	text-shadow:3px 3px #b3b3b3;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	-o-border-radius:50px;
+	-ms-border-radius:50px;
+	border:1px solid #000000;
+}
+#header h1{
+	margin:1% 0 0 0;
+}
+/*PROFILE PIC*/
+#pp{
+	background: url("self.jpeg");
+	background-size:100%;
+	background-color:#b3b3b3;
+	width:200px;
+	height:200px;
+	margin:0 auto;
+	-webkit-border-radius:200px;
+	-moz-border-radius:200px;
+	-o-border-radius:200px;
+	-ms-border-radius:200px;
+}
+/*MAIN*/
+main{
+	padding:5%;
+	border:1px solid #000000;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	-o-border-radius:50px;
+	-ms-border-radius:50px;
+}
+/*ME*/
+#me{
+	background-color:#e2f0f9;
+	padding:5%;
+	font-size:125%;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	-o-border-radius:50px;
+	-ms-border-radius:50px;
+}
+#me h2{
+	text-align:center;
+	font-variant:small-caps;
+	margin-bottom:1%;
+}
+/*PERSONAL DETAILS*/
+#personal{
+	background-color:#e2f0f9;
+	padding:5%;
+	margin:2% 0 0 0;
+	font-size:100%;
+	font-variant:small-caps;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	-o-border-radius:50px;
+	-ms-border-radius:50px;
+}
+#personal table{
+	margin:0 auto;
+	border-spacing:0;
+	border-collapse:collapse;
+}
+#personal caption{
+	margin-bottom:1%;
+	padding:0 0 0 3%;
+}
+#personal table td{
+	font-size:100%;
+	padding:5%;
+}
+#personal table td:last-child{
+	padding-left:25%;
+	text-align:right;
+}
+#personal h2{
+	text-align:center;
+}
+/*SKILLS*/
+#skills{
+	background-color:#e2f0f9;
+	padding:10% 10% 10% 15%;
+	margin:2% 0 0 0;
+	font-size:100%;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	-o-border-radius:50px;
+	-ms-border-radius:50px;
+}
+#skills h2{
+	text-align:center;
+	font-variant:small-caps;
+	margin-bottom:3%;
+	padding:0 6% 0 0;
+}
+#skills li{
+	padding:3%;
+	font-variant:small-caps;
+}
+#skills span{
+	color:#a1a1a1;
+	font-variant:none;
+}
+/*EDUCATION*/
+#education{
+	background-color:#e2f0f9;
+	padding:5%;
+	margin:2% 0 0 0;
+	font-size:90%;
+	font-variant:small-caps;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	-o-border-radius:50px;
+	-ms-border-radius:50px;
+}
+#education table{
+	border-spacing:3px;
+	margin:0 auto
+	
+}
+#education table th:first-child,#education table td:first-child{
+	text-align:left;
+	padding-right:10%;
+}
+#education table td,#education table th{
+	padding:2%;
+}
+#education table td:last-child{
+	text-align:right;
+}
+#education table span{
+	color:#a1a1a1;
+}
+/*SOCIAL*/
+#social{
+	background-color:#e2f0f9;
+	padding:5%;
+	margin:2% 0 0 0;
+	font-variant:small-caps;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	-o-border-radius:50px;
+	-ms-border-radius:50px;
+	text-align:center;
+}
+#social nav{
+	margin:0 auto;
+}
+#social img{
+	display:inline-block;
+	width:50px;
+	height:50px;
+	margin:5%;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	-o-border-radius:50px;
+	-ms-border-radius:50px;
+}
+#social #square{
+	-webkit-border-radius:0;
+	-moz-border-radius:0;
+	-o-border-radius:0;
+	-ms-border-radius:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
